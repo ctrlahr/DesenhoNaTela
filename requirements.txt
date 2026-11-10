@@ -1,0 +1,4 @@
+opencv-python>=4.8
+numpy>=1.24
+# Necessário apenas para gerar o executável (build_exe.bat já instala).
+pyinstaller>=6.0
